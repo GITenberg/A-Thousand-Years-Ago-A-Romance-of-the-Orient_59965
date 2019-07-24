@@ -1,5 +1,5 @@
 _repo: A-Thousand-Years-Ago-A-Romance-of-the-Orient_59965
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Hamilton, Clayton Meeker
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '5143'
     url: http://www.gutenberg.org/2009/agents/5143
+covers:
+- cover_type: archival
+  image_path: 59965-h/images/cover.jpg
 creator:
   author:
     agent_name: MacKaye, Percy
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7390
     wikipedia: http://en.wikipedia.org/wiki/Percy_MacKaye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59965#A-Thousand-Years-Ago-A-Romance-of-the-Orient
 gutenberg_issued: '2019-07-21'
 gutenberg_type: Text
 identifiers:
